@@ -2,11 +2,12 @@
 
 The RF-MPC algorithm, originally designed for quadruped robots(https://github.com/YanranDing/RF-MPC), is adapted for use with UAVs after some modifications.
 
-https://user-images.githubusercontent.com/35834577/234013588-f590855c-3e01-4d3b-b13e-dd7264e91b9c.mp4
+ ![test_demo](https://user-images.githubusercontent.com/35834577/234013953-5487c7bc-f7a1-479f-8b1a-46be44341fa2.gif)
 
- 
 I have provided a simple trajectory without considering the quadrotor UAV's dynamic constraints and optimization. You can run `test_traj.m` to see the results.
-![UAV_Traj](https://user-images.githubusercontent.com/35834577/234013478-a5326d28-6c1a-41d7-b705-7019dcb4eb81.PNG)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/35834577/234013478-a5326d28-6c1a-41d7-b705-7019dcb4eb81.PNG" width="400" />
+</p>
 
 ## Requirement
 
