@@ -46,7 +46,7 @@ The QP could be solved by either the MATLAB QP solver `quadprog` or an efficient
 
 This code is based on the following paper:
 
-- Yanran Ding, Abhishek Pandala, Chuanzheng Li, Young-Ha Shin, Hae-Won Park "Representation-Free Model Predictive Control for Dynamic Motions in Quadrupeds". In IEEE Transactions on Robotics. [PDF](Link)
+- Yanran Ding, Abhishek Pandala, Chuanzheng Li, Young-Ha Shin, Hae-Won Park "Representation-Free Model Predictive Control for Dynamic Motions in Quadrupeds". In IEEE Transactions on Robotics.
 
 
 ## Acknowledgments
